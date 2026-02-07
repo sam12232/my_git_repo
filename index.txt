@@ -1,6 +1,1 @@
-I am learning git. Git is a version control system.
-One can manage his code with git.
-
-This is V2.
-
-This is V3.
+Github.
